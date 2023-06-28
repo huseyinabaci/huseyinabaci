@@ -1,5 +1,11 @@
 # 💫 About Me:
-## About me<br><br>Passionate software developer with a focus on web development. Experienced in JavaScript, HTML, CSS, and C#. Skilled in front-end and back-end development, API integrations, and database management. Committed to clean code and best practices. Open-source contributor on GitHub. Let's connect and explore exciting opportunities!<br><br>Happy coding!
+Passionate software developer with a focus on web development. Experienced in JavaScript, HTML, CSS, and C#. Skilled in front-end and back-end development, API integrations, and database management. Committed to clean code and best practices. Open-source contributor on GitHub. Let's connect and explore exciting opportunities!
+
+🚀 Exploring the world of code with passion
+💻 Building awesome things with JavaScript and React
+🌍 Contributing to the open-source community
+💡 Solving problems with elegant and efficient code
+📚 Always learning and growing as a developer
 
 
 ## 🌐 Socials:
